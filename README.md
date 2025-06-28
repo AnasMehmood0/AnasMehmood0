@@ -14,9 +14,6 @@ I'm a undergraduate student passionate about coding, web development, and learni
 - **Frameworks/Tools**: Streamlit, Chainlit, Git
 - **Currently Learning**: AI/ML basics, APIs
 
-### 📌 Projects
-- [💬 ChatBot using Chainlit](https://github.com/AnasMehmood0/ChatBot) – AI-powered assistant using OpenAI and Chainlit
-- 
 ### 📈 GitHub Stats
 ![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasMehmood0&show_icons=true&theme=tokyonight)
 
